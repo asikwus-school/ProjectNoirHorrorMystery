@@ -1,12 +1,12 @@
-title: Monster_1
-position: -414,-223
+title: Monster_1_interrogation
+position: 0,0
 ---
-TODO: Description of Monster_1
+TODO: Description of Monster 1 (The monster walks in and you begin the interrogation)
 What question would you like to ask?
--> TODO: Time-question
-    Monster_1: TODO: Time Answer
--> TODO: Victim-question
-    Monster_1: TODO: Victim Answer
--> TODO: Item-question
-    Monster_1: TODO: Item Answer
+-> TODO: Time-question (Where were you at <time>?)
+    Monster 1: TODO: Time Answer
+-> TODO: Victim-question (Did you know <victim>?)
+    Monster 1: TODO: Victim Answer 
+-> TODO: Item-question (Do you recognize this <item>?)
+    Monster 1: TODO: Item Answer
 ===
